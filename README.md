@@ -12,7 +12,7 @@ Predicting Numerical Target (Regression)
 Predicting Categorical Target (Classification)
 - Logistic Regresion
 - K-Nearest Neighbors
-- Decison Tree 
+- Decison Tree
 
 Ensemble Methods
 - Random Forest (Bagging)
