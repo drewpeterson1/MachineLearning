@@ -16,5 +16,5 @@ Predicting Categorical Target (Classification)
 
 Ensemble Methods
 - Random Forest (Bagging)
-- XG Boost (Boosting)
+- XG Boost (Boosting) 
 - Libraries: Sci-Kit Learn, XGBoost
